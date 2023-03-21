@@ -35,7 +35,7 @@ $ Décompressez les fichiers
 # Utilisation
 ***
 ```
-$ Déplacement du personnage avec les flêches directionnelles et la barre espace !!! 
+$ Déplacement du personnage avec les flèches directionnelles et la barre espace !!! 
 $ Deux niveaux  
 ```
 ## Attention
