@@ -21,13 +21,13 @@ Voici une liste des technologies utilisées :
 *** 
 ```
 $ Version pour Windows 
-$ Téléchargez les fichiers (https://github.com/lucas04200/Mario)
+$ Téléchargez les fichiers (https://github.com/lucas04200/Mario_App)
 $ Mettez les fichiers dans un dossier 
 $ Exécutez le programme : "Mario.exe"
 $ Décompressez les fichiers
 
 $ Version pour MacOS 
-$ Téléchargez les fichiers (https://github.com/lucas04200/Mario)
+$ Téléchargez les fichiers (https://github.com/lucas04200/Mario_App)
 $ Mettez les fichiers dans un dossier 
 $ Vous avez votre version dans le dossier : mario.app
 $ Décompressez les fichiers 
