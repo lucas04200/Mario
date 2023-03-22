@@ -13,7 +13,7 @@ Mario - Version 1
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
-* [Unity 3D](https://unity.com/fr) : Version 2021.3.2f1
+* [Unity](https://unity.com/fr) : Version 2021.3.2f1
 * [Blender](https://www.blender.org/) : Version 3.2.2
 * [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/) : Version 10
 * [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
