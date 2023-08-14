@@ -14,7 +14,6 @@ Mario - Version 1
 ***
 Voici une liste des technologies utilisées :
 * [Unity](https://unity.com/fr) : Version 2021.3.2f1
-* [Blender](https://www.blender.org/) : Version 3.2.2
 * [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/) : Version 10
 * [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
 ## Installation
