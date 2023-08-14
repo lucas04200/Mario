@@ -45,4 +45,4 @@ Version pour MacOS
 il n'y a que deux niveaux de jeu 
 ## Crédit 
 ***
-Dechavanne Lucas 
+Lucas Dechavanne 
