@@ -20,9 +20,9 @@ Mario - Version 1
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
-[Unity](https://unity.com/fr) : Version 2021.3.2f1
-[C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/) : Version 10
-[Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
+* [Unity](https://unity.com/fr) : Version 2021.3.2f1
+* [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/) : Version 10
+* [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
 ## Installation
 *** 
 Version pour Windows
