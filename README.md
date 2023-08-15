@@ -6,9 +6,9 @@
 5. [Attention](#attention)
 6. [Crédit](#crédit)
 
-## Informations_Générales
-***
 # Mario en 2D
+***
+## Informations_Générales
 ***
 - Création d'un jeu Mario en C# (2D).
 - Utilisation de pixel art pour pouvoir mener à bien le projet.
