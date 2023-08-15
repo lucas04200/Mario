@@ -9,7 +9,7 @@
 
 ## Informations_Générales
 ***
-Mario - Version 1
+Mario en 2D
 ## Objectifs
 ***
 - Création d'un jeu Mario en C# (2D).
