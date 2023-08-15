@@ -10,7 +10,7 @@
 ## Informations_Générales
 ***
 Mario en 2D
-## Objectifs du projet
+## Objectifs 
 ***
 - Création d'un jeu Mario en C# (2D).
 - Utilisation de pixel art pour pouvoir mener à bien le projet.
