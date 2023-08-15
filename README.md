@@ -8,7 +8,7 @@
 
 # Mario en 2D
 ***
-## Informations_Générales
+## Informations
 ***
 - Création d'un jeu Mario en C# (2D).
 - Utilisation de pixel art pour pouvoir mener à bien le projet.
