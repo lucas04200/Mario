@@ -1,16 +1,14 @@
 ## Table des matières
 1. [Informations générales](#informations_générales)
-2. [Objectifs du projet](#Objectifs)
-3. [Technologies](#technologies)
-4. [Installation](#installation)
-5. [Utilisation](#utilisation)
-6. [Attention](#attention)
-7. [Crédit](#crédit)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Utilisation](#utilisation)
+5. [Attention](#attention)
+6. [Crédit](#crédit)
 
 ## Informations_Générales
 ***
 Mario en 2D
-## Objectifs 
 ***
 - Création d'un jeu Mario en C# (2D).
 - Utilisation de pixel art pour pouvoir mener à bien le projet.
