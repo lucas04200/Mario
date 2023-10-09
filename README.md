@@ -13,8 +13,8 @@
 - Création d'un jeu Mario en C# (2D).
 - Utilisation de pixel art pour pouvoir mener à bien le projet.
 - Gestion des différents objets sur le jeu.
-- Script de vie des et de morts du personnage.
-- Animation des différents mouvement et/ou action que le personnage va devoir effectuer.
+- Script de vie et des morts du personnage.
+- Animation des différents mouvements et/ou actions que le personnage va devoir effectuer.
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
@@ -24,13 +24,13 @@ Voici une liste des technologies utilisées :
 ## Installation
 *** 
 Version pour Windows
-- Téléchargez les fichiers (https://github.com/lucas04200/Mario_App)
+- Téléchargez le projet 
 - Mettez les fichiers dans un dossier 
 - Décompressez les fichiers
 - Exécutez le programme : "Mario.exe"
 ***
 Version pour MacOS 
-- Téléchargez les fichiers (https://github.com/lucas04200/Mario_App)
+- Téléchargez le projet 
 - Mettez les fichiers dans un dossier 
 - Décompressez les fichiers 
 - Vous avez votre version dans le dossier : mario.app
